@@ -19,6 +19,7 @@
 * O Programador Pragmático
 * O Codificador Limpo
 * - Software Craftsman
+* - Elegant Objects, vol. 1
 
 ## Testes
 
