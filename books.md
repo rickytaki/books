@@ -18,6 +18,7 @@
 * O programador apaixonado
 * O Programador Pragmático
 * O Codificador Limpo
+* - Software Craftsman
 
 ## Testes
 
